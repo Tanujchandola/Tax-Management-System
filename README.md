@@ -1,7 +1,4 @@
-#npm start
-#npx nodemon
 
-https://extraordinary-gumdrop-c9bda9.netlify.app/Tax-Details
 
 Login Page
 
